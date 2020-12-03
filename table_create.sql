@@ -13,9 +13,9 @@ create table t_teacher(
 	primary key(tid)
 );
 
-ALTER   TABLE  t_lab
-     ADD   CONSTRAINT  FK_t_lab_t_teacher_tid
-           FOREIGN   KEY  (tid)  REFERENCES  t_teacher(tid);
+--ALTER   TABLE  t_lab
+--     ADD   CONSTRAINT  FK_t_lab_t_teacher_tid
+--           FOREIGN   KEY  (tid)  REFERENCES  t_teacher(tid);
 
 create table t_student(
 	s_id varchar(9) primary key,
