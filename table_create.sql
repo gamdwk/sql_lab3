@@ -1,3 +1,9 @@
+USE master
+GO
+CREATE DATABASE SCHOOL
+
+GO
+USE SCHOOL;
 create table t_lab(
 	labid varchar(3),
 	tid varchar(9),
