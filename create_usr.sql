@@ -102,3 +102,8 @@ create login s00000014
 with password ='123456'
 use school
 create user s14 for login s00000014;
+
+create login super
+with password ='123456'
+use school
+create user su for login super
