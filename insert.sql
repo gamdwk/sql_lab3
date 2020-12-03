@@ -1,3 +1,4 @@
+use school
 ALTER   TABLE  t_lab
      drop   CONSTRAINT  FK_t_lab_t_teacher_tid;
 
