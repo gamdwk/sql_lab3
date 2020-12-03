@@ -1,3 +1,4 @@
---╢╢╫╗йсм╪╨м╫ги╚ж╝╨Стыткпп╢кнд╪Ч
+--Е┬⌡Е╩╨Х╖├Е⌡╬Е▓▄Х╖▓Х┴╡Д╧▀Е░▌Е├█Х©░Х║▄Ф╜╓Ф√┤Д╩╤
+use school
 GRANT SELECT ON student_check TO student
 GRANT SELECT,UPDATE,INSERT,DELETE ON teacher_check TO teacher
