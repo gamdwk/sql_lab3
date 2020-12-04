@@ -1,5 +1,5 @@
-ALTER   TABLE  t_lab
-     drop   CONSTRAINT  FK_t_lab_t_teacher_tid;
+--ALTER   TABLE  t_lab
+--     drop   CONSTRAINT  FK_t_lab_t_teacher_tid;
 
 insert into t_lab
 values
